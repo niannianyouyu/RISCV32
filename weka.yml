@@ -1,0 +1,2 @@
+- name: waka-box
+  uses: matchai/waka-box@v4.0.3
